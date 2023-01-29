@@ -18,4 +18,4 @@ Collected images were than carefully cleaned. These are the few steps and consid
 3. Remove any mistakenly classified images, such as images that contains weapon found under **Normal** dataset.
 
 ## Experimentation Result
-For more details about this project, please refer to the pdf [Poster.pdf](Poster.pdf).
+For more details about this project, please refer to the pdf [Poster.pdf](Poster.pdf). The pdf contains all the information from how the data is further processed to various experimentation on different model and optimizing it.  
