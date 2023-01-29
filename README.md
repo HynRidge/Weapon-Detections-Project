@@ -16,3 +16,6 @@ Collected images were than carefully cleaned. These are the few steps and consid
 1. For images that initially falls under the category between **Threat** and **Carrying**, if no apparent weapon are to be seen in the image we would remove that from the dataset.
 2. Remove blurry / highly pixelated images.
 3. Remove any mistakenly classified images, such as images that contains weapon found under **Normal** dataset.
+
+## Experimentation Result
+For more details about this project, please refer to the pdf [Poster.pdf](Poster.pdf).
