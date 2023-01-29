@@ -1,4 +1,4 @@
-# Weapon Detections
+# Weapon Detections Project
 
 # Project Description
 The project is about how we can use images to detect weapons do a data classification into 3 categories, which includes normal, threat, or carrying weapon,.
